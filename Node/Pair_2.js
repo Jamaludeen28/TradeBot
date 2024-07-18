@@ -133,9 +133,10 @@ async function GenerateAIpairs2(data) {
           sell_price: sellresponse.toFixed(4),
           Profit_Amount: minus_plus,
           Profit_Percentage: profitPercent.toFixed(3),
-          callData: openOceanData.callData,
+          BuyCallData: openOceanData.buycallData,
+          SellCallData: openOceanData.sellcallData,
         };
-
+        
         if (profitPercent > 0) {
           newArray.push(result);
         }
@@ -194,7 +195,8 @@ async function generateAIopenOcean(pair, Amount, network) {
           sellAmountOpenOcean:
             openOceanSellResponse.data.data.outAmount /
             10 ** from_token_decimal,
-          callData: openOceanBuyResponse.data.data.data,
+            buycallData: openOceanBuyResponse.data.data.data,
+            sellcallData: openOceanSellResponse.data.data.data
         };
       } else {
         return {

@@ -42,7 +42,7 @@ app.post("/fetchData", async (req, res) => {
     }
 
     const pricedata = await axios.get(
-      `https://min-api.cryptocompare.com/data/price?api_key=eabd3a1fc2137ff50689349cfdf465d326902408eaa1cbaf2ec6fa744255a7e3&fsym=${token}&tsyms=USD`
+      `https://min-api.cryptocompare.com/data/price?api_key=2aeee6fbe025c5317ce4c9e7bd537ab2d245e31c288838e55580dc88d7ba8fb2&fsym=${token}&tsyms=USD`
     );
 
     const amountInUSD = amount / pricedata.data.USD;
