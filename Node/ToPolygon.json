@@ -1,0 +1,1416 @@
+[
+    {
+        "symbol": "USDM",
+        "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+        "decimals": 18,
+        "name": "Mountain Protocol USDM",
+        "img": "https://s3.openocean.finance/token_logos/logos/1714669489081_7948201150808347.png"
+    },
+    {
+        "symbol": "USDC",
+        "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "decimals": 6,
+        "name": "USDC",
+        "img": "https://s3.openocean.finance/token_logos/logos/1710141465519_2940486690496251.png"
+    },
+    {
+        "symbol": "THE",
+        "address": "0x27DfD2D7b85e0010542da35C6EBcD59E45fc949D",
+        "decimals": 18,
+        "name": "Thena",
+        "img": "https://s3.openocean.finance/token_logos/logos/1706579005151_7507709256328334.png"
+    },
+    {
+        "symbol": "VRSW",
+        "address": "0x57999936fc9a9ec0751a8d146cce11901be8bed0",
+        "decimals": 18,
+        "name": "VirtuSwap",
+        "img": "https://s3.openocean.finance/token_logos/logos/1704720347580_6095396835298592.jpeg"
+    },
+    {
+        "symbol": "PYM",
+        "address": "0x0bd49815ea8e2682220bcb41524c0dd10ba71d41",
+        "decimals": 18,
+        "name": "Playermon",
+        "img": "https://s3.openocean.finance/token_logos/logos/1699907397881_750935026475748.jpg"
+    },
+    {
+        "symbol": "SDEX",
+        "address": "0x6899face15c14348e1759371049ab64a3a06bfa6",
+        "decimals": 18,
+        "name": "SmarDex",
+        "img": "https://s3.openocean.finance/token_logos/logos/1692240879311_5110646896120243.jpg"
+    },
+    {
+        "symbol": "RETRO",
+        "address": "0xbfa35599c7aebb0dace9b5aa3ca5f2a79624d8eb",
+        "decimals": 18,
+        "name": "Retro Finance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1690944074418_9885278544632408.jpg"
+    },
+    {
+        "symbol": "QUICK(NEW)",
+        "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
+        "decimals": 18,
+        "name": "Quickswap",
+        "img": "https://s3.openocean.finance/token_logos/logos/1686210705992_06021298141873399.jpg"
+    },
+    {
+        "symbol": "SFL",
+        "address": "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05",
+        "decimals": 18,
+        "name": "Sunflower Land",
+        "img": "https://s3.openocean.finance/token_logos/logos/1686210570901_9949281779376056.jpg"
+    },
+    {
+        "symbol": "AXLUSDC",
+        "address": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
+        "decimals": 6,
+        "name": "Axelar USDC",
+        "img": "https://s3.openocean.finance/token_logos/logos/1685934712922_725874789521737.jpg"
+    },
+    {
+        "symbol": "USD",
+        "address": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
+        "decimals": 6,
+        "name": "Overnight.fi USD ",
+        "img": "https://s3.openocean.finance/token_logos/logos/1683703309214_7975871177996272.JPG"
+    },
+    {
+        "symbol": "EURS",
+        "address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+        "decimals": 18,
+        "name": "STASIS EURO",
+        "img": "https://s3.openocean.finance/token_logos/logos/1680166925283_17808256522311838.png"
+    },
+    {
+        "symbol": "ALI",
+        "address": "0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac",
+        "decimals": 18,
+        "name": "Artificial Liquid Intelligence",
+        "img": "https://s3.openocean.finance/token_logos/logos/1675854431126_3028622198441615.jpg"
+    },
+    {
+        "symbol": "TETU",
+        "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+        "decimals": 18,
+        "name": "TETU",
+        "img": "https://s3.openocean.finance/token_logos/logos/1675414640920_14559829257517798.png"
+    },
+    {
+        "symbol": "BOB",
+        "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+        "decimals": 18,
+        "name": "BOB",
+        "img": "https://s3.openocean.finance/token_logos/logos/1674201442537_5411928690716046.png"
+    },
+    {
+        "symbol": "MVX",
+        "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+        "decimals": 18,
+        "name": "Metavault",
+        "img": "https://s3.openocean.finance/token_logos/logos/1672742526350_9871429198839679.png"
+    },
+    {
+        "symbol": "GOVI",
+        "address": "0x43df9c0a1156c96cea98737b511ac89d0e2a1f46",
+        "decimals": 18,
+        "name": "CVI",
+        "img": "https://s3.openocean.finance/token_logos/logos/1672110577570_11003097278337126.jpg"
+    },
+    {
+        "symbol": "MMF",
+        "address": "0x22a31bd4cb694433b6de19e0acc2899e553e9481",
+        "decimals": 18,
+        "name": "MMFinance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1672025325148_4211250520429277.jpg"
+    },
+    {
+        "symbol": "JPYC",
+        "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+        "decimals": 18,
+        "name": "JPY Coin",
+        "img": "https://s3.openocean.finance/token_logos/logos/1671697880645_36944048274298935.png"
+    },
+    {
+        "symbol": "BUSD",
+        "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+        "decimals": 18,
+        "name": "Binance-Peg BUSD Token",
+        "img": "https://s3.openocean.finance/token_logos/logos/1671245075491_7443227084474797.png"
+    },
+    {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18,
+        "name": "Matic Token",
+        "img": "https://s3.openocean.finance/token_logos/logos/1637561049975_1903381661429342.png"
+    },
+    {
+        "symbol": "WMATIC",
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "decimals": 18,
+        "name": "Wrapped Matic",
+        "img": "https://s3.openocean.finance/token_logos/logos/1637561027304_35141640745067626.png"
+    },
+    {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "img": "https://s3.openocean.finance/token_logos/logos/1660274686368_6607762231519678.png"
+    },
+    {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8,
+        "name": "(PoS) Wrapped BTC",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6.png"
+    },
+    {
+        "symbol": "USDC.e",
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "decimals": 6,
+        "name": "USD Coin",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x2791bca1f2de4661ed88a30c99a7a9449aa84174.png"
+    },
+    {
+        "symbol": "stMATIC",
+        "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+        "decimals": 18,
+        "name": "Lido Staked Matic",
+        "img": "https://s3.openocean.finance/token_logos/logos/1660903337224_4560316585179449.png"
+    },
+    {
+        "symbol": "GDDY",
+        "address": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6",
+        "decimals": 18,
+        "name": "Giddy",
+        "img": "https://s3.openocean.finance/token_logos/logos/1670474157204_2823034827563551.png"
+    },
+    {
+        "symbol": "XY",
+        "address": "0x55555555a687343c6ce28c8e1f6641dc71659fad",
+        "decimals": 18,
+        "name": "XY Finance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1669284836284_01822542890524259.png"
+    },
+    {
+        "symbol": "MULTI",
+        "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+        "decimals": 18,
+        "name": "Multichain",
+        "img": "https://s3.openocean.finance/token_logos/logos/1669116498450_2410692863955417.png"
+    },
+    {
+        "symbol": "CHAMP",
+        "address": "0xed755dba6ec1eb520076cec051a582a6d81a8253",
+        "decimals": 18,
+        "name": "Ultimate Champions ",
+        "img": "https://s3.openocean.finance/token_logos/logos/1668594279439_1547284331169272.jpg"
+    },
+    {
+        "symbol": "MASK",
+        "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+        "decimals": 18,
+        "name": "Mask Network",
+        "img": "https://s3.openocean.finance/token_logos/logos/1668076307397_028764704075121994.svg"
+    },
+    {
+        "symbol": "QUICK",
+        "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+        "decimals": 18,
+        "name": "Quickswap ",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x831753dd7087cac61ab5644b308642cc1c33dc13.png"
+    },
+    {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18,
+        "name": "Aavegotchi GHST Token (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7.png"
+    },
+    {
+        "symbol": "WNT",
+        "address": "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+        "decimals": 18,
+        "name": "Wicrypt",
+        "img": "https://s3.openocean.finance/token_logos/logos/1660906742285_38303018002840994.png"
+    },
+    {
+        "symbol": "DFYN",
+        "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+        "decimals": 18,
+        "name": "Dfyn Network",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659091813351_7113734711591275.png"
+    },
+    {
+        "symbol": "PSP",
+        "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+        "decimals": 18,
+        "name": "ParaSwap",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659925799282_1946839218918408.png"
+    },
+    {
+        "symbol": "ANKR",
+        "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+        "decimals": 18,
+        "name": "Ankr",
+        "img": "https://s3.openocean.finance/token_logos/logos/1664246990204_3407976441131719.png"
+    },
+    {
+        "symbol": "DFX",
+        "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+        "decimals": 18,
+        "name": "DFX Finance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659091862792_3888622196451825.png"
+    },
+    {
+        "symbol": "MUST",
+        "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+        "decimals": 18,
+        "name": "Must",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659091609818_4204100061089149.png"
+    },
+    {
+        "symbol": "SYN",
+        "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+        "decimals": 18,
+        "name": "Synapse",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659091490088_7069071853576678.jpg"
+    },
+    {
+        "symbol": "KNC",
+        "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+        "decimals": 18,
+        "name": "Kyber Network Crystal",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659091376583_2874595764042496.png"
+    },
+    {
+        "symbol": "BAL",
+        "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+        "decimals": 18,
+        "name": "Balancer",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659090722075_30192828471605826.png"
+    },
+    {
+        "symbol": "SUSHI",
+        "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+        "decimals": 18,
+        "name": "Sushi",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659090606414_8423922368036674.jpg"
+    },
+    {
+        "symbol": "CRV",
+        "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+        "decimals": 18,
+        "name": "Curve DAO",
+        "img": "https://s3.openocean.finance/token_logos/logos/1659090503009_4854886895761452.png"
+    },
+    {
+        "symbol": "DYST",
+        "address": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb",
+        "decimals": 18,
+        "name": "Dystopia",
+        "img": "https://s3.openocean.finance/token_logos/logos/1656673019589_6675963284640591.png"
+    },
+    {
+        "symbol": "WOO",
+        "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+        "decimals": 18,
+        "name": "WOO Network",
+        "img": "https://s3.openocean.finance/token_logos/logos/1656667636835_9822154721388587.png"
+    },
+    {
+        "symbol": "MESH",
+        "address": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+        "decimals": 18,
+        "name": "Meshswap Protocol",
+        "img": "https://s3.openocean.finance/token_logos/logos/1656329272711_694526707705986.png"
+    },
+    {
+        "symbol": "VOXEL",
+        "address": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+        "decimals": 18,
+        "name": "Voxies",
+        "img": "https://s3.openocean.finance/token_logos/logos/1653305584414_7583280492585984.JPG"
+    },
+    {
+        "symbol": "ankrMATIC",
+        "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+        "decimals": 18,
+        "name": "Ankr Staked MATIC",
+        "img": "https://s3.openocean.finance/token_logos/logos/1653739525363_5982120772421002.png"
+    },
+    {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18,
+        "name": "Dai",
+        "img": "https://s3.openocean.finance/token_logos/logos/1654511737201_01702755433339287.png"
+    },
+    {
+        "symbol": "SAND",
+        "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+        "decimals": 18,
+        "name": "The Sandbox",
+        "img": "https://s3.openocean.finance/token_logos/logos/1643719818140_6543672005855306.jpg"
+    },
+    {
+        "symbol": "SPHERE",
+        "address": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
+        "decimals": 18,
+        "name": "Sphere Finance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1650033490877_3375525678568654.png"
+    },
+    {
+        "symbol": "deUSDC",
+        "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
+        "decimals": 6,
+        "name": "deBridge USD Coin",
+        "img": "https://s3.openocean.finance/token_logos/logos/1650029090036_6170070150622293.png"
+    },
+    {
+        "symbol": "PYR",
+        "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+        "decimals": 18,
+        "name": "Vulcan Forged",
+        "img": "https://s3.openocean.finance/token_logos/logos/1649481046459_9285000815155724.jpg"
+    },
+    {
+        "symbol": "FRAX",
+        "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "decimals": 18,
+        "name": "Frax",
+        "img": "https://s3.openocean.finance/token_logos/logos/1649073380384_6210511662882632.png"
+    },
+    {
+        "symbol": "FXS",
+        "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+        "decimals": 18,
+        "name": "Frax Share",
+        "img": "https://s3.openocean.finance/token_logos/logos/1649073312321_4011823693934131.png"
+    },
+    {
+        "symbol": "MAAAVE",
+        "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
+        "decimals": 18,
+        "name": "Matic Aave Interest Bearing AAVE",
+        "img": "https://s3.openocean.finance/token_logos/logos/1648802662108_23062503682757907.png"
+    },
+    {
+        "symbol": "AMAAVE",
+        "address": "0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
+        "decimals": 18,
+        "name": "Aave Polygon AAVE",
+        "img": "https://s3.openocean.finance/token_logos/logos/1648802493273_5394709792738763.png"
+    },
+    {
+        "symbol": "STG",
+        "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "decimals": 18,
+        "name": "Stargate Finance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1648128003267_8819963035591498.png"
+    },
+    {
+        "symbol": "ICE",
+        "address": "0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59",
+        "decimals": 18,
+        "name": "Popsicle Finance",
+        "img": "https://s3.openocean.finance/token_logos/logos/1643720325972_8789441259812336.png"
+    },
+    {
+        "symbol": "GNS",
+        "address": "0xe5417af564e4bfda1c483642db72007871397896",
+        "decimals": 18,
+        "name": "Gains Network",
+        "img": "https://s3.openocean.finance/token_logos/logos/1643720129196_27407007307689324.png"
+    },
+    {
+        "symbol": "RNDR",
+        "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+        "decimals": 18,
+        "name": "Render",
+        "img": "https://s3.openocean.finance/token_logos/logos/1637993589737_2763393839775947.png"
+    },
+    {
+        "symbol": "PLA",
+        "address": "0x8765f05ADce126d70bcdF1b0a48Db573316662eB",
+        "decimals": 18,
+        "name": "PlayDapp Token",
+        "img": "https://s3.openocean.finance/token_logos/logos/1637720672269_8912811203024513.png"
+    },
+    {
+        "symbol": "maUSDC",
+        "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+        "decimals": 6,
+        "name": "Matic Aave interest bearing USDC",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x9719d867a500ef117cc201206b8ab51e794d3f82.png"
+    },
+    {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18,
+        "name": "Aave (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xd6df932a45c0f255f85145f286ea0b292b21c90b.png"
+    },
+    {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6,
+        "name": "Tether USD",
+        "img": "https://s3.openocean.finance/token_logos/logos/1685350930738_8838831485695695.png"
+    },
+    {
+        "symbol": "ADDY",
+        "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+        "decimals": 18,
+        "name": "Adamant",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539.png"
+    },
+    {
+        "symbol": "AGA",
+        "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+        "decimals": 4,
+        "name": "AGA Token (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x033d942a6b495c4071083f4cde1f17e986fe856c.png"
+    },
+    {
+        "symbol": "AGAr",
+        "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+        "decimals": 8,
+        "name": "AGA Rewards (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xf84bd51eab957c2e7b7d646a3427c5a50848281d.png"
+    },
+    {
+        "symbol": "CC10",
+        "address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
+        "decimals": 18,
+        "name": "Cryptocurrency Top Tokens Index (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x9c49ba0212bb5db371e66b59d1565b7c06e4894e.png"
+    },
+    {
+        "symbol": "CEL",
+        "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+        "decimals": 4,
+        "name": "Celsius (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xd85d1e945766fea5eda9103f918bd915fbca63e6.png"
+    },
+    {
+        "symbol": "DEFI5",
+        "address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
+        "decimals": 18,
+        "name": "DEFI Top 5 Tokens Index (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x42435f467d33e5c4146a4e8893976ef12bbce762.png"
+    },
+    {
+        "symbol": "DEGEN",
+        "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
+        "decimals": 18,
+        "name": "DEGEN Index (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x8a2870fb69a90000d6439b7adfb01d4ba383a415.png"
+    },
+    {
+        "symbol": "DINO",
+        "address": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+        "decimals": 18,
+        "name": "DinoSwap (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xaa9654becca45b5bdfa5ac646c939c62b527d394.png"
+    },
+    {
+        "symbol": "FISH",
+        "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+        "decimals": 18,
+        "name": "Fish",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x3a3df212b7aa91aa0402b9035b098891d276572b.png"
+    },
+    {
+        "symbol": "GAJ",
+        "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+        "decimals": 18,
+        "name": "PolyGaj Token",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xf4b0903774532aee5ee567c02aab681a81539e92.png"
+    },
+    {
+        "symbol": "Krill",
+        "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+        "decimals": 18,
+        "name": "Krill",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b.png"
+    },
+    {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18,
+        "name": "ChainLink Token",
+        "img": "https://s3.openocean.finance/token_logos/logos/1636358691925_24097308868007405.png"
+    },
+    {
+        "symbol": "PolyDoge",
+        "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+        "decimals": 18,
+        "name": "PolyDoge",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x8a953cfe442c5e8855cc6c61b1293fa648bae472.png"
+    },
+    {
+        "symbol": "PolyMoon",
+        "address": "0xeFb3009DdAc87E8144803d78E235E7fb4cd36e61",
+        "decimals": 9,
+        "name": "PolyMoon",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xefb3009ddac87e8144803d78e235e7fb4cd36e61.png"
+    },
+    {
+        "symbol": "SX",
+        "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+        "decimals": 18,
+        "name": "SportX (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79.png"
+    },
+    {
+        "symbol": "TEL",
+        "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+        "decimals": 2,
+        "name": "Telcoin (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32.png"
+    },
+    {
+        "symbol": "UBT",
+        "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+        "decimals": 8,
+        "name": "Unibright (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x7fbc10850cae055b27039af31bd258430e714c62.png"
+    },
+    {
+        "symbol": "UNI",
+        "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+        "decimals": 18,
+        "name": "Uniswap (PoS)",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xb33eaad8d922b1083446dc23f610c2567fb5180f.png"
+    },
+    {
+        "symbol": "WOLF",
+        "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+        "decimals": 9,
+        "name": "moonwolf.io",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x8f18dc399594b451eda8c5da02d0563c0b2d0f16.png"
+    },
+    {
+        "symbol": "MAI",
+        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "decimals": 18,
+        "name": "miMATIC",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png"
+    },
+    {
+        "symbol": "pSWAMP",
+        "address": "0x5f1657896b38c4761dbc5484473c7a7c845910b6",
+        "decimals": 18,
+        "name": "pSwampy",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x5f1657896b38c4761dbc5484473c7a7c845910b6.png"
+    },
+    {
+        "symbol": "polyBUNNY",
+        "address": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a",
+        "decimals": 18,
+        "name": "Polygon BUNNY",
+        "img": "https://s3.openocean.finance/token_logos/logos/polygon/0x4c16f69302ccb511c5fac682c7626b9ef0dc126a.png"
+    },
+    {
+        "symbol": "AUMI",
+        "address": "0x3eB177A6693eC81d1E170136f8AD02fffBE172a7",
+        "decimals": 18,
+        "name": "AutoMatic Network",
+        "img": "https://s3.openocean.finance/token_logos/logos/1635228244417_8097348181280004.png"
+    },
+    {
+        "symbol": "1ART",
+        "address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+        "decimals": 18,
+        "name": "ArtWallet",
+        "img": "https://s3.openocean.finance/token_logos/logos/1635386525569_726327472199642.png"
+    },
+    {
+        "symbol": "jEUR",
+        "address": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c",
+        "decimals": 18,
+        "name": "jEUR",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jGBP",
+        "address": "0x767058f11800fba6a682e73a6e79ec5eb74fac8c",
+        "decimals": 18,
+        "name": "jGBP",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jCHF",
+        "address": "0xbd1463f02f61676d53fd183c2b19282bff93d099",
+        "decimals": 18,
+        "name": "jCHF",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jAUD",
+        "address": "0xcb7f1ef7246d1497b985f7fc45a1a31f04346133",
+        "decimals": 18,
+        "name": "jAUD",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jCAD",
+        "address": "0x8ca194a3b22077359b5732de53373d4afc11dee3",
+        "decimals": 18,
+        "name": "jCAD",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jCNY",
+        "address": "0x84526c812d8f6c4fd6c1a5b68713aff50733e772",
+        "decimals": 18,
+        "name": "jCNY",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jCOP",
+        "address": "0xe6d222caaed5f5dd73a9713ac91c95782e80acbf",
+        "decimals": 18,
+        "name": "jCOP",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jJPY",
+        "address": "0x8343091f2499fd4b6174a46d067a920a3b851ff9",
+        "decimals": 18,
+        "name": "jJPY",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jKRW",
+        "address": "0xa22f6bc96f13bcc84df36109c973d3c0505a067e",
+        "decimals": 18,
+        "name": "jKRW",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jMXN",
+        "address": "0xbd1fe73e1f12bd2bc237de9b626f056f21f86427",
+        "decimals": 18,
+        "name": "jMXN",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jNGN",
+        "address": "0x182c76e977161f703bb8f111047df6c43cfacc56",
+        "decimals": 18,
+        "name": "jNGN",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jNZD",
+        "address": "0x6b526daf03b4c47af2bcc5860b12151823ff70e0",
+        "decimals": 18,
+        "name": "jNZD",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jPHP",
+        "address": "0x486880fb16408b47f928f472f57bec55ac6089d1",
+        "decimals": 18,
+        "name": "jPHP",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jPLN",
+        "address": "0x08e6d1f0c4877ef2993ad733fc6f1d022d0e9dbf",
+        "decimals": 18,
+        "name": "jPLN",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jBRL",
+        "address": "0xf2f77fe7b8e66571e0fca7104c4d670bf1c8d722",
+        "decimals": 18,
+        "name": "jBRL",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jSEK",
+        "address": "0x197e5d6ccff265ac3e303a34db360ee1429f5d1a",
+        "decimals": 18,
+        "name": "jSEK",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "jSGD",
+        "address": "0xa926db7a4cc0cb1736d5ac60495ca8eb7214b503",
+        "decimals": 18,
+        "name": "jSGD",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "BIFI",
+        "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+        "decimals": 18,
+        "name": "BIFI",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "MEME",
+        "address": "0xf2b5a8c37278bcdd50727d5ca879f8e5a4642e2e",
+        "decimals": 8,
+        "name": "MEME",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "SUPER",
+        "address": "0xa1428174f516f527fafdd146b883bb4428682737",
+        "decimals": 18,
+        "name": "SUPER",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "MANA",
+        "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+        "decimals": 18,
+        "name": "MANA",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+    },
+    {
+        "symbol": "mUSD",
+        "address": "0xe840b73e5287865eec17d250bfb1536704b43b21",
+        "decimals": 18,
+        "name": "mUSD",
+        "img": "https://cdn.paraswap.io/token/mUSD.png"
+    },
+    {
+        "symbol": "YFI",
+        "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+        "decimals": 18,
+        "name": "YFI",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    },
+    {
+        "symbol": "QUICK(old)",
+        "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+        "decimals": 18,
+        "name": "QUICK(old)",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+    },
+    {
+        "symbol": "renBTC",
+        "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+        "decimals": 18,
+        "name": "renBTC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "DfynWMATIC",
+        "address": "0x4c28f48448720e9000907bc2611f73022fdce1fa",
+        "decimals": 18,
+        "name": "DfynWMATIC",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+        "symbol": "HAWK",
+        "address": "0x69cbc7449ee102eb792f1656744bf1a7c1bacb7e",
+        "decimals": 18,
+        "name": "HAWK",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "BPT",
+        "address": "0x6863bd30c9e313b264657b107352ba246f8af8e0",
+        "decimals": 18,
+        "name": "BPT",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amAAVE",
+        "address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
+        "decimals": 18,
+        "name": "amAAVE",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amDAI",
+        "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+        "decimals": 18,
+        "name": "amDAI",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amUSDC",
+        "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+        "decimals": 6,
+        "name": "amUSDC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amUSDT",
+        "address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+        "decimals": 6,
+        "name": "amUSDT",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amWBTC",
+        "address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
+        "decimals": 8,
+        "name": "amWBTC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amWETH",
+        "address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
+        "decimals": 18,
+        "name": "amWETH",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "amWMATIC",
+        "address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+        "decimals": 18,
+        "name": "amWMATIC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "COMP",
+        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+        "decimals": 18,
+        "name": "COMP",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+    },
+    {
+        "symbol": "BTU",
+        "address": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc",
+        "decimals": 18,
+        "name": "BTU",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png"
+    },
+    {
+        "symbol": "$DG",
+        "address": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
+        "decimals": 18,
+        "name": "$DG",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
+    },
+    {
+        "symbol": "0xBTC",
+        "address": "0x71b821aa52a49f32eed535fca6eb5aa130085978",
+        "decimals": 8,
+        "name": "0xBTC",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
+    },
+    {
+        "symbol": "ARIA20",
+        "address": "0x46f48fbdedaa6f5500993bede9539ef85f4bee8e",
+        "decimals": 18,
+        "name": "ARIA20",
+        "img": "https://aria.fyi/images/Aria_Logo_256.png"
+    },
+    {
+        "symbol": "AZUKI",
+        "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+        "decimals": 18,
+        "name": "AZUKI",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
+    },
+    {
+        "symbol": "CFI",
+        "address": "0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e",
+        "decimals": 18,
+        "name": "CFI",
+        "img": "https://i.imgur.com/Z8V1O7H.png"
+    },
+    {
+        "symbol": "CTSI",
+        "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
+        "decimals": 18,
+        "name": "CTSI",
+        "img": "https://i.imgur.com/q3SnElh.png"
+    },
+    {
+        "symbol": "DB",
+        "address": "0x0e59d50add2d90f5111aca875bae0a72d95b4762",
+        "decimals": 18,
+        "name": "DB",
+        "img": "https://dark-build.app/logo192.png"
+    },
+    {
+        "symbol": "DMT",
+        "address": "0xd28449bb9bb659725accad52947677cce3719fd7",
+        "decimals": 18,
+        "name": "DMT",
+        "img": "https://darkmatter.finance/i/favicon/512x512.png"
+    },
+    {
+        "symbol": "DSLA",
+        "address": "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639",
+        "decimals": 18,
+        "name": "DSLA",
+        "img": "https://storage.googleapis.com/stacktical-public/dsla.png"
+    },
+    {
+        "symbol": "EASY",
+        "address": "0xdb3b3b147a030f032633f6c4bebf9a2fb5a882b5",
+        "decimals": 18,
+        "name": "EASY",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+    },
+    {
+        "symbol": "ELET",
+        "address": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4",
+        "decimals": 18,
+        "name": "ELET",
+        "img": "https://etherlegends.com/ELET.png"
+    },
+    {
+        "symbol": "ETH",
+        "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "decimals": 18,
+        "name": "ETH",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "symbol": "GAME",
+        "address": "0x8d1566569d5b695d44a9a234540f68d393cdc40d",
+        "decimals": 18,
+        "name": "GAME",
+        "img": "https://i.imgur.com/IIUglm9.png?1"
+    },
+    {
+        "symbol": "HEX",
+        "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
+        "decimals": 8,
+        "name": "HEX",
+        "img": "https://hex.com/favicon.png"
+    },
+    {
+        "symbol": "HH",
+        "address": "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc",
+        "decimals": 18,
+        "name": "HH",
+        "img": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626"
+    },
+    {
+        "symbol": "IGG",
+        "address": "0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce",
+        "decimals": 6,
+        "name": "IGG",
+        "img": "https://assets.coingecko.com/coins/images/7697/small/N7aEdYrY_400x400.png?1561587437"
+    },
+    {
+        "symbol": "JULIEN",
+        "address": "0x268ad27c28601d28b79c792c14e95bd2b7a030f8",
+        "decimals": 4,
+        "name": "JULIEN",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6710e0CdA178f3D921f456902707B0d4C4A332B/logo.png"
+    },
+    {
+        "symbol": "LEND",
+        "address": "0x313d009888329c9d1cf4f75ca3f32566335bd604",
+        "decimals": 18,
+        "name": "LEND",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
+    },
+    {
+        "symbol": "MONA",
+        "address": "0x6968105460f67c3bf751be7c15f92f5286fd0ce5",
+        "decimals": 18,
+        "name": "MONA",
+        "img": "https://i.imgur.com/FR12tmm.jpg"
+    },
+    {
+        "symbol": "NDR",
+        "address": "0xfb65ef42f7c8a70ff73f627db6e9ba2aff1f20fa",
+        "decimals": 18,
+        "name": "NDR",
+        "img": "https://tokens.1inch.exchange/0x739763a258640919981f9ba610ae65492455be53.png"
+    },
+    {
+        "symbol": "OM",
+        "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
+        "decimals": 18,
+        "name": "OM",
+        "img": "https://etherscan.io/token/images/mantradao_32.png"
+    },
+    {
+        "symbol": "PICKLE",
+        "address": "0x2b88ad57897a8b496595925f43048301c37615da",
+        "decimals": 18,
+        "name": "PICKLE",
+        "img": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/pickle.png"
+    },
+    {
+        "symbol": "PPDEX",
+        "address": "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e",
+        "decimals": 18,
+        "name": "PPDEX",
+        "img": "https://etherscan.io/token/images/pepedex_32.png?v=2"
+    },
+    {
+        "symbol": "RBAL",
+        "address": "0x03247a4368a280bec8133300cd930a3a61d604f6",
+        "decimals": 18,
+        "name": "RBAL",
+        "img": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
+    },
+    {
+        "symbol": "SDT",
+        "address": "0x361a5a4993493ce00f61c32d4ecca5512b82ce90",
+        "decimals": 18,
+        "name": "SDT",
+        "img": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt.png"
+    },
+    {
+        "symbol": "SENT",
+        "address": "0x48e3883233461c2ef4cb3fcf419d6db07fb86cea",
+        "decimals": 8,
+        "name": "SENT",
+        "img": "https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png"
+    },
+    {
+        "symbol": "SWAP",
+        "address": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f",
+        "decimals": 18,
+        "name": "SWAP",
+        "img": "https://i.imgur.com/vZnU36G.png"
+    },
+    {
+        "symbol": "SWG",
+        "address": "0x043a3aa319b563ac25d4e342d32bffb51298db7b",
+        "decimals": 18,
+        "name": "SWG",
+        "img": "https://etherscan.io/token/images/swirge_32.png"
+    },
+    {
+        "symbol": "VISION",
+        "address": "0x034b2090b579228482520c589dbd397c53fc51cc",
+        "decimals": 18,
+        "name": "VISION",
+        "img": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo200circle.png"
+    },
+    {
+        "symbol": "WISE",
+        "address": "0xb77e62709e39ad1cbeebe77cf493745aec0f453a",
+        "decimals": 18,
+        "name": "WISE",
+        "img": "https://etherscan.io/token/images/wisetoken_32.png"
+    },
+    {
+        "symbol": "WRX",
+        "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
+        "decimals": 8,
+        "name": "WRX",
+        "img": "https://etherscan.io/token/images/binance-wrx_32.png"
+    },
+    {
+        "symbol": "ZUT",
+        "address": "0xe86e8beb7340659dddce61727e500e3a5ad75a90",
+        "decimals": 18,
+        "name": "ZUT",
+        "img": "https://s2.gifyu.com/images/zutlogo.jpg"
+    },
+    {
+        "symbol": "ZUZ",
+        "address": "0x232eab56c4fb3f84c6fb0a50c087c74b7b43c6ad",
+        "decimals": 18,
+        "name": "ZUZ",
+        "img": "https://etherscan.io/token/images/zuzprotocol_32.png"
+    },
+    {
+        "symbol": "bBADGER",
+        "address": "0x2628d301b161db70e3dbbac88d9d900ca426ff02",
+        "decimals": 18,
+        "name": "bBADGER",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png"
+    },
+    {
+        "symbol": "bDIGG",
+        "address": "0xfdde616084427f0a231d0664a985e1f820e34693",
+        "decimals": 18,
+        "name": "bDIGG",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x798D1bE841a82a273720CE31c822C61a67a601C3/logo.png"
+    },
+    {
+        "symbol": "eDAI",
+        "address": "0xa1c09c8f4f5d03fcc27b456475d53d988e98d7c5",
+        "decimals": 8,
+        "name": "eDAI",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+    },
+    {
+        "symbol": "eUSDC",
+        "address": "0x4ebde54ba404be158262ede801744b92b9878c61",
+        "decimals": 8,
+        "name": "eUSDC",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+    },
+    {
+        "symbol": "eUSDT",
+        "address": "0xfc39742fe9420a7af23757fc7e78d1c3ae4a9474",
+        "decimals": 8,
+        "name": "eUSDT",
+        "img": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+    },
+    {
+        "symbol": "iFARM",
+        "address": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff",
+        "decimals": 18,
+        "name": "iFARM",
+        "img": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png"
+    },
+    {
+        "symbol": "mDEF",
+        "address": "0x82b6205002ecd05e97642d38d61e2cfeac0e18ce",
+        "decimals": 9,
+        "name": "mDEF",
+        "img": "https://etherscan.io/token/images/deflect_32.png?=v1"
+    },
+    {
+        "symbol": "mOCEAN",
+        "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
+        "decimals": 18,
+        "name": "mOCEAN",
+        "img": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png"
+    },
+    {
+        "symbol": "mRBAL",
+        "address": "0x66768ad00746ac4d68ded9f64886d55d5243f5ec",
+        "decimals": 18,
+        "name": "mRBAL",
+        "img": "https://rebalancetoken.io/images/logo/logo.png"
+    },
+    {
+        "symbol": "maAAVE",
+        "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
+        "decimals": 18,
+        "name": "maAAVE",
+        "img": "https://aavegotchi.com/images/matokens/maAAVE.svg"
+    },
+    {
+        "symbol": "maDAI",
+        "address": "0xe0b22e0037b130a9f56bbb537684e6fa18192341",
+        "decimals": 18,
+        "name": "maDAI",
+        "img": "https://aavegotchi.com/images/matokens/maDAI.svg"
+    },
+    {
+        "symbol": "maLINK",
+        "address": "0x98ea609569bd25119707451ef982b90e3eb719cd",
+        "decimals": 18,
+        "name": "maLINK",
+        "img": "https://aavegotchi.com/images/matokens/maLINK.svg"
+    },
+    {
+        "symbol": "maTUSD",
+        "address": "0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9",
+        "decimals": 18,
+        "name": "maTUSD",
+        "img": "https://aavegotchi.com/images/matokens/maTUSD.svg"
+    },
+    {
+        "symbol": "maUNI",
+        "address": "0x8c8bdbe9cee455732525086264a4bf9cf821c498",
+        "decimals": 18,
+        "name": "maUNI",
+        "img": "https://aavegotchi.com/images/matokens/maUNI.svg"
+    },
+    {
+        "symbol": "maUSDT",
+        "address": "0xdae5f1590db13e3b40423b5b5c5fbf175515910b",
+        "decimals": 6,
+        "name": "maUSDT",
+        "img": "https://aavegotchi.com/images/matokens/maUSDT.svg"
+    },
+    {
+        "symbol": "maWETH",
+        "address": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142",
+        "decimals": 18,
+        "name": "maWETH",
+        "img": "https://aavegotchi.com/images/matokens/maWETH.svg"
+    },
+    {
+        "symbol": "maYFI",
+        "address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
+        "decimals": 18,
+        "name": "maYFI",
+        "img": "https://aavegotchi.com/images/matokens/maYFI.svg"
+    },
+    {
+        "symbol": "sd3Crv",
+        "address": "0x87f0bfee4435ce2b8643b221d0c1cad21f5328b4",
+        "decimals": 18,
+        "name": "sd3Crv",
+        "img": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-usd.png"
+    },
+    {
+        "symbol": "sdcrvRenWSBTC",
+        "address": "0xe212f92e5af85268b33d2aa587b51f49c3b945be",
+        "decimals": 18,
+        "name": "sdcrvRenWSBTC",
+        "img": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-btc.png"
+    },
+    {
+        "symbol": "sdeursCRV",
+        "address": "0xfbdb45075fb73ca4cc8b83fd6fdb4f9b696b1ba1",
+        "decimals": 18,
+        "name": "sdeursCRV",
+        "img": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-eur.png"
+    },
+    {
+        "symbol": "xMARK",
+        "address": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+        "decimals": 9,
+        "name": "xMARK",
+        "img": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
+    },
+    {
+        "symbol": "xSDT",
+        "address": "0xd921f8318cfd786bab1ea7492673f053c518ac04",
+        "decimals": 18,
+        "name": "xSDT",
+        "img": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/xsdt.png"
+    },
+    {
+        "symbol": "DPI",
+        "address": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369",
+        "decimals": 18,
+        "name": "DPI",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "agEUR",
+        "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+        "decimals": 18,
+        "name": "agEUR",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolAAVE",
+        "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+        "decimals": 18,
+        "name": "aPolAAVE",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolDAI",
+        "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+        "decimals": 18,
+        "name": "aPolDAI",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolUSDC",
+        "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+        "decimals": 6,
+        "name": "aPolUSDC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolUSDT",
+        "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+        "decimals": 6,
+        "name": "aPolUSDT",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolWBTC",
+        "address": "0x078f358208685046a11c85e8ad32895ded33a249",
+        "decimals": 8,
+        "name": "aPolWBTC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolWETH",
+        "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+        "decimals": 18,
+        "name": "aPolWETH",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolWMATIC",
+        "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+        "decimals": 18,
+        "name": "aPolWMATIC",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolLINK",
+        "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+        "decimals": 18,
+        "name": "aPolLINK",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolEURS",
+        "address": "0x38d693ce1df5aadf7bc62595a37d667ad57922e5",
+        "decimals": 2,
+        "name": "aPolEURS",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolGHST",
+        "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+        "decimals": 18,
+        "name": "aPolGHST",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolBAL",
+        "address": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692",
+        "decimals": 18,
+        "name": "aPolBAL",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolCRV",
+        "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+        "decimals": 18,
+        "name": "aPolCRV",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolDPI",
+        "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+        "decimals": 18,
+        "name": "aPolDPI",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolSUSHI",
+        "address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+        "decimals": 18,
+        "name": "aPolSUSHI",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolJEUR",
+        "address": "0x6533afac2e7bccb20dca161449a13a32d391fb00",
+        "decimals": 18,
+        "name": "aPolJEUR",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "symbol": "aPolAGEUR",
+        "address": "0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77",
+        "decimals": 18,
+        "name": "aPolAGEUR",
+        "img": "https://cdn.paraswap.io/token/token.png"
+    },
+    {
+        "name": "Lido DAO Token (PoS)",
+        "symbol": "LDO",
+        "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+        "decimals": 18,
+        "img": "https://polygonscan.com/token/images/lidodao_32.png"
+    },
+    {
+        "name": "Nakamoto.Games",
+        "symbol": "NAKA",
+        "address": "0x311434160d7537be358930def317afb606c0d737",
+        "decimals": 18,
+        "img": "https://polygonscan.com/token/images/nakamotogames_32.png"
+    }
+]

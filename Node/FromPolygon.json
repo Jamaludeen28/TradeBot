@@ -1,0 +1,45 @@
+  [
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimals": 18,
+      "img": "https://assets.coingecko.com/coins/images/32882/large/WETH_%281%29.png?1699716492"
+    },
+    {
+      "name": "(PoS) Tether USD",
+      "symbol": "USDT",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "decimals": 6,
+      "img": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Tether-USDT-icon.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "decimals": 18,
+      "img": "https://seeklogo.com/images/C/chainlink-link-logo-CDF7095A43-seeklogo.com.png"
+    },
+    {
+      "name": "Matic Token",
+      "symbol": "WMATIC",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "img": "https://app.aave.com/icons/tokens/wmatic.svg"
+    },
+    {
+      "name": "(PoS) Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "img": "https://app.aave.com/icons/tokens/dai.svg"
+    },
+    {
+      "name": "WBTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+      "chain": "polygon"
+    }
+  ]
